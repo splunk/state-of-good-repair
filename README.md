@@ -1,6 +1,6 @@
 
 # State of Good Repair Splunk App
-This app accompanies the 2019 .conf "IoT1318 - Maintaining a state of good repair with predictive analytics" presentation and provides:
+This app accompanies the 2019 .conf ["IoT1318 - Maintaining a state of good repair with predictive analytics"](https://conf.splunk.com/learn/session-catalog.html?search=nesavich) presentation and provides:
 * Examples of all SPL covered in presentation.
 * Takeaways for follow up / implementation of similar use cases at your company.
 * Education / training 
