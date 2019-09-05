@@ -43,6 +43,13 @@ Abbreviated How To video showing the water leak detection use case demonstrated 
 ##### [Shining a Light on Industrial Data](https://www.splunk.com/blog/2014/10/22/shining-a-light-on-industrial-data.html) - Blog
 Collecting, Connecting, and Enriching Industrial Data data with the [Kepware IDF to Metrics Index Add-on for Splunk](https://splunkbase.splunk.com/app/3963/).
 
+##### Getting IoT Data In
+While the use cases covered in this presentation all relied on [Splunk DB connect](https://splunkbase.splunk.com/app/2686/), there are many other ways of collecting IoT data that are beyond the scope of this presentation which are listed below for your reference:
+* [Splunk Stream](https://splunkbase.splunk.com/app/1809/)
+* [REST API Modular Input](https://splunkbase.splunk.com/app/1546/)
+* [Splunk Add-on for OPC](https://splunkbase.splunk.com/app/4246/)
+* [Kepware IDF to Metrics Index Add-on for Splunk](https://splunkbase.splunk.com/app/3963/)
+* [WeavingThings IOT edge connectivity platform](https://splunkbase.splunk.com/app/3922/)
 
 ##### Best of .conf 2019 IoT sessions - TBD
 Check back after .conf for list of some of best IoT sessions of 2019 .conf.
