@@ -5,7 +5,7 @@ This app accompanies the 2019 .conf "IoT1318 - Maintaining a state of good repai
 * Takeaways for follow up / implementation of similar use cases at your company.
 * Education / training 
 
---
+---
 
 # Prerequisites
 Before you install the State of Good Repair Splunk App, make sure your system meets the following minimum prerequisites:
