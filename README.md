@@ -40,6 +40,9 @@ Links to helpful blogs, articles, how to videos and more are listed below.
 ##### [Anomaly Detection Video](https://www.youtube.com/watch?v=lyPN6q6z9Es&feature=youtu.be) - How To Video
 Abbreviated How To video showing the water leak detection use case demonstrated in this session.
 
+##### [Maintaining a State of Good Repair (Part 1) – The Hot Tub Nightmare!](https://www.splunk.com/en_us/blog/machine-learning/splunk-for-maintaining-a-state-of-good-repair-part-1-the-hot-tub-nightmare.html) - Blog
+Learn how to use Splunk's Machine Learning Toolkit to detect water leaks.
+
 ##### [Shining a Light on Industrial Data](https://www.splunk.com/blog/2014/10/22/shining-a-light-on-industrial-data.html) - Blog
 Collecting, Connecting, and Enriching Industrial Data data with the [Kepware IDF to Metrics Index Add-on for Splunk](https://splunkbase.splunk.com/app/3963/).
 
